@@ -7,5 +7,9 @@ def keer5_met_input():
 def keer5_zoner_input(x):
     return x*5
 
+<<<<<<< HEAD
 
 print('doeiiii')
+=======
+print('hoiiiii')
+>>>>>>> refs/remotes/origin/master
